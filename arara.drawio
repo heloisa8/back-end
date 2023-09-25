@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net" modified="2023-08-29T11:49:14.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pYmLYT_tgMn2o5ZXuGF1" version="21.6.9" type="device">
+  <diagram name="Página-1" id="4EmsQni0g9tQMl-hfdy7">
+    <mxGraphModel dx="700" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xUbvplEkrfPS6SjgiSZU-1" value="&lt;font face=&quot;Lucida Console&quot;&gt;ARARA&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="360" height="230" as="geometry">
+            <mxRectangle x="210" y="180" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUbvplEkrfPS6SjgiSZU-2" value="&lt;font face=&quot;Courier New&quot;&gt;+ cor: string&lt;br&gt;+ alimentação: string&lt;br&gt;+ tamanho: decimal&lt;br&gt;+ espécie: string&lt;br&gt;+ peso: decimal&lt;br&gt;+ som: string&lt;br&gt;+ habitat: string&lt;/font&gt;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="xUbvplEkrfPS6SjgiSZU-1">
+          <mxGeometry y="26" width="360" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="xUbvplEkrfPS6SjgiSZU-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="xUbvplEkrfPS6SjgiSZU-1">
+          <mxGeometry y="150" width="360" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="xUbvplEkrfPS6SjgiSZU-4" value="&lt;font face=&quot;Courier New&quot;&gt;+ voar() : void&lt;br&gt;+ comer(): void&lt;br&gt;+ tagarelar(): void&lt;/font&gt;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="xUbvplEkrfPS6SjgiSZU-1">
+          <mxGeometry y="158" width="360" height="72" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
